@@ -44,6 +44,7 @@ img {
   border-radius: 10px;
   position: relative;
   padding: 1.8em;
+  overflow: scroll;
 }
 
 /* Boton X */
